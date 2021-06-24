@@ -1,4 +1,5 @@
 # Data science packages
+jupyterlab
 matplotlib
 numpy
 pandas
